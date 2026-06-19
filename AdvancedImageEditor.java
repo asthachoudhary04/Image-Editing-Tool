@@ -1028,13 +1028,3 @@ public class AdvancedImageEditor extends JFrame {
 
 
 
-
-    private JSlider brightness = new JSlider(-100, 100, 0);
-    private JSlider contrast = new JSlider(-100, 100, 0);
-    private JSlider saturation = new JSlider(-100, 100, 0);
-    private JSlider structure = new JSlider(-100, 100, 0);
-    private JSlider ambience = new JSlider(-100, 100, 0);
-    private JSlider whitePoint = new JSlider(-100, 100, 0);
-    private JSlider highlights = new JSlider(-100, 100, 0);
-    private JSlider shadows = new JSlider(-100, 100, 0);
-    private JSlider warmth = new JSlider(-100, 100, 0);
